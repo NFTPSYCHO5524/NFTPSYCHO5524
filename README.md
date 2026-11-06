@@ -15,7 +15,7 @@ I enjoy turning complex workflows into reliable tools—from market-signal monit
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| [SMC Signal Alerter](https://github.com/nftinfluencer/smc-alerter) | Processes structured trading signals, generates visual trade cards, and delivers alerts via Telegram and ntfy. | Public repository |
+| [SMC Signal Alerter](https://github.com/NFTPSYCHO5524/smc-alerter) | Processes structured trading signals, generates visual trade cards, and delivers alerts via Telegram and ntfy. | Public repository |
 | **SMC Trading Bot** | Python-based trading system built around market-structure and entry-model logic. | Portfolio write-up planned |
 | **NFT Minting Bot** | High-speed NFT minting automation. | Portfolio write-up planned |
 | **Degen Trading Bot** | Trading automation for speculative markets. | In development |
@@ -29,7 +29,7 @@ I value **clear problem definitions, measurable improvements, secure configurati
 
 ### Connect
 
-- **GitHub:** [@nftinfluencer](https://github.com/nftinfluencer)
+- **GitHub:** [@NFTPSYCHO5524](https://github.com/NFTPSYCHO5524)
 - **Collaboration:** Open to discussing software, automation, AI integration, and technical projects.
 
 ---
