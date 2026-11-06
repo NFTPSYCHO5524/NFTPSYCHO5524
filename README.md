@@ -16,7 +16,7 @@ I enjoy turning complex workflows into reliable tools—from market-signal monit
 | Project | What it does | Status |
 | --- | --- | --- |
 | [SMC Signal Alerter](https://github.com/NFTPSYCHO5524/smc-alerter) | Processes structured trading signals, generates visual trade cards, and delivers alerts via Telegram and ntfy. | Public repository |
-| [SMC Market Structure Engine](https://github.com/NFTPSYCHO5524/NFTPSYCHO5524/tree/main/projects/smc-market-structure-engine) | Technical case study of my Python SMC trading bot: market structure, liquidity, FVGs, engineering decisions and historical testing. | Public case study; standalone code release pending |
+| [SMC Market Structure Engine](https://github.com/NFTPSYCHO5524/smc-market-structure-engine) | Technical case study of my Python SMC trading bot: market structure, liquidity, FVGs, engineering decisions and historical testing. | Public analyzer code, tests and case study |
 | **NFT Minting Bot** | High-speed NFT minting automation. | Portfolio write-up planned |
 | **Degen Trading Bot** | Trading automation for speculative markets. | In development |
 | **Universal AI Bridge** | Project to move conversation context between AI providers. | In development |
